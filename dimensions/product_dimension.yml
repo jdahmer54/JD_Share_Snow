@@ -29,7 +29,7 @@ level_attributes:
     contains_unique_names: false
     dataset: DIMPRODUCT
     key_columns:
-      - productsubcategorykey
+      - productline
       - productsubcategorykey
     name_column: productsubcategorykey
 type: standard
